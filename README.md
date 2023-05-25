@@ -20,6 +20,10 @@ golang rest API
 ## ENDPOINTS
 
 - POST: http://localhost:8080/api/create_books
+![POST!](images/post.png)
 - GET: http://localhost:8080/api/books
+![GET!](images/get.png)
 - GET BY ID: http://localhost:8080/api/get_books/{id}
+![GET BY ID!](images/get_by_id.png)
 - DELETE: http://localhost:8080/api/delete_book/{id}
+![DELETE!](images/delete.png)
