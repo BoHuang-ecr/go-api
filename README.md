@@ -1,5 +1,5 @@
 # go-api
-golang rest API
+golang rest API using fiber + postgresql
 
 ## installation
 
